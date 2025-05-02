@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=miturufu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -36,7 +30,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/miturufu/miturufu/output/snake.svg" alt="Snake animation" />
-
-###
