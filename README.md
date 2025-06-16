@@ -25,8 +25,4 @@
 
 ###
 
-<p align="left">oi, meu nome é mitch<br>não me considero como um desenvolvedor, até pq raramente interajo aqui<br><br>sou contra o sistema abusivo do >> novo << ensino médio (pelo menos o que é proposto na rede estadual de SP.</p>
-
-###
-
 <br clear="both">
